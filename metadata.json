@@ -1,0 +1,5 @@
+{
+  "name": "EchoExtract MP3",
+  "description": "Simple, local video to MP3 converter using native browser APIs.",
+  "requestFramePermissions": []
+}
